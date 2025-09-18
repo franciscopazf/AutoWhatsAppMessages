@@ -153,4 +153,4 @@ sendWhatsAppMessage({
 | Envío a más de una persona | Posibilidad de enviar el mismo mensaje a varios contactos o grupos. | ☐ |
 | Programación de mensajes | Configurar mensajes para enviarse en una fecha y hora específicas. | ☐ |
 | Extensión con GUI | Crear una interfaz gráfica para gestionar mensajes y configuraciones sin usar la consola. | ☐ |
-| Envío mediante CSV | Permitir enviar mensajes a múltiples destinatarios leyendo un archivo CSV con columnas: destinatario | mensaje | fecha y hora | ☐ |
+| Envío mediante CSV | Permitir enviar mensajes a múltiples destinatarios leyendo un archivo CSV con columnas: destinatario  mensaje  fecha y hora | ☐ |
