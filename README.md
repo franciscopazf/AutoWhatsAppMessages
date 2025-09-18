@@ -1,4 +1,3 @@
-const readmeContent = `
 # WhatsAppMessage JS
 
 Una herramienta en JavaScript para **enviar mensajes automáticamente en WhatsApp Web**, con opciones de personalización como loops, índices, hooks y división de mensajes.
@@ -149,9 +148,9 @@ sendWhatsAppMessage({
 
 ## 🚀 Features futuras
 
-| Feature | Descripción |
-|---------|------------|
-| Envío a más de una persona | Posibilidad de enviar el mismo mensaje a varios contactos o grupos. |
-| Programación de mensajes | Configurar mensajes para enviarse en una fecha y hora específicas. |
-| Extensión con GUI | Crear una interfaz gráfica para gestionar mensajes y configuraciones sin usar la consola. |
-| Envío mediante CSV | Permitir enviar mensajes a múltiples destinatarios leyendo un archivo CSV con columnas: destinatario | mensaje | fecha y hora |
+| Feature | Descripción | Disponible |
+|---------|------------|------------|
+| Envío a más de una persona | Posibilidad de enviar el mismo mensaje a varios contactos o grupos. | ☐ |
+| Programación de mensajes | Configurar mensajes para enviarse en una fecha y hora específicas. | ☐ |
+| Extensión con GUI | Crear una interfaz gráfica para gestionar mensajes y configuraciones sin usar la consola. | ☐ |
+| Envío mediante CSV | Permitir enviar mensajes a múltiples destinatarios leyendo un archivo CSV con columnas: destinatario | mensaje | fecha y hora | ☐ |
